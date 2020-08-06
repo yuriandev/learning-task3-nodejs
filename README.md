@@ -1,2 +1,2 @@
 Small learning task for Node.js
-![alt text]task3.jpg
+![alt text](task3.jpg)
